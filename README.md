@@ -1,5 +1,7 @@
 # Enumify
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/rauschma--enumify.svg)](https://www.staging.guardrails.io)
+
 A JavaScript library for enums. To be used by transpiled ES6 (e.g. via Babel).
 
 The approach taken by Enumify is heavily inspired by Java enums.
