@@ -1,6 +1,6 @@
 # Enumify
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/rauschma--enumify.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/rauschma--enumify.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/rauschma--enumify.svg)](https://www.guardrails.io)
 
 A JavaScript library for enums. To be used by transpiled ES6 (e.g. via Babel).
 
